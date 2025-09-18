@@ -1,8 +1,8 @@
 Molecular_Weight,Isoelectric_Point,Hydrophobicity_Index,Ala_Content,Gly_Content,Solubility
-66422,8.25,-0.17,9.4,7.6,Soluble
-25795,6.27,-0.24,7.8,8.3,Insoluble
+66422,8.25,-0.17,9.4,7.6,Insoluble
+25795,6.27,-0.24,7.8,8.3,Soluble
 10860,5.13,0,5.8,5.9,Insoluble
-48158,7.24,0.18,7.1,8.5,Soluble
+48158,7.24,0.18,7.1,8.5,Insoluble
 64343,5.81,-0.26,8.9,8.1,Soluble
 54732,7,0.34,7.4,6.9,Soluble
 21284,9.8,0.01,9.9,8.8,Soluble
