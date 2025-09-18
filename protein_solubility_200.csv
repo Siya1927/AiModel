@@ -39,7 +39,7 @@ Molecular_Weight,Isoelectric_Point,Hydrophobicity_Index,Ala_Content,Gly_Content,
 69150,6.57,0.35,9.2,7.4,Soluble
 10189,8.31,0.05,6.5,7,Insoluble
 29118,8.58,0.08,9.1,6.7,Soluble
-45773,7.69,0.18,9.8,8.1,Soluble
+45773,7.69,0,9.8,8.1,Soluble
 63810,7.19,0.13,5.4,7.9,Soluble
 11899,7.82,0.36,9,6.1,Soluble
 66886,8.06,0.36,7.9,8.6,Insoluble
@@ -98,7 +98,7 @@ Molecular_Weight,Isoelectric_Point,Hydrophobicity_Index,Ala_Content,Gly_Content,
 21534,6.2,0.29,6.7,5.9,Soluble
 39127,6.33,-0.05,6.6,6.3,Insoluble
 50397,7.41,0.37,5.5,6.1,Soluble
-35851,7.19,0.17,7.4,6.2,Soluble
+35851,7.19,0.17,5,6.2,Soluble
 11016,10.47,0.04,8.4,8.4,Soluble
 34253,5.56,0.05,7.6,6.7,Insoluble
 65591,4.61,-0.24,5.8,6.6,Insoluble
@@ -106,7 +106,7 @@ Molecular_Weight,Isoelectric_Point,Hydrophobicity_Index,Ala_Content,Gly_Content,
 33247,5.57,0.12,5,7.6,Soluble
 34300,6.7,0.09,9.3,6.8,Soluble
 18529,8.97,-0.15,5.4,8.1,Insoluble
-27262,8.83,0.36,8,6.2,Insoluble
+27262,6,0.36,8,6.2,Insoluble
 19268,6.35,0.25,9.9,8.3,Soluble
 31271,7.76,-0.22,7.7,7.6,Insoluble
 22185,7.55,0.35,9.6,5.9,Soluble
@@ -118,7 +118,7 @@ Molecular_Weight,Isoelectric_Point,Hydrophobicity_Index,Ala_Content,Gly_Content,
 48044,9.94,0.19,5.7,8.7,Insoluble
 61214,7.11,0.38,5.7,7.6,Soluble
 59216,6.6,0.18,8.4,5.6,Soluble
-58984,8.37,0.29,9.2,8.7,Soluble
+58984,8.37,0.35,9.2,8.7,Soluble
 50774,8.51,0.31,8.7,6.4,Soluble
 12568,9.69,0.29,5.2,7.5,Insoluble
 64615,5.88,0,9.3,6.1,Soluble
@@ -131,7 +131,7 @@ Molecular_Weight,Isoelectric_Point,Hydrophobicity_Index,Ala_Content,Gly_Content,
 49504,6.18,0.11,9.2,7.3,Soluble
 43159,9.8,0.3,5.4,8.9,Insoluble
 23986,8.99,0.32,7.7,7.1,Insoluble
-22666,10.22,-0.13,6.2,7.5,Insoluble
+22666,7,-0.13,6.2,7.5,Insoluble
 48660,6.48,0.34,6.7,8.5,Soluble
 13561,7.82,0.11,7.4,7.4,Soluble
 36854,7.93,-0.05,6.8,6.1,Insoluble
@@ -162,7 +162,7 @@ Molecular_Weight,Isoelectric_Point,Hydrophobicity_Index,Ala_Content,Gly_Content,
 62992,8.17,-0.07,5.3,7.3,Insoluble
 27412,4.99,-0.2,5.1,8.3,Insoluble
 66537,4.53,0.35,8.5,8.9,Soluble
-43270,8.27,0.34,10,8.4,Soluble
+43270,8.27,0.34,5,8.4,Soluble
 16910,5.67,-0.12,9.5,8.5,Soluble
 55453,4.93,0.19,7.9,6.9,Soluble
 35446,6.88,-0.25,9.6,7.4,Soluble
@@ -180,7 +180,7 @@ Molecular_Weight,Isoelectric_Point,Hydrophobicity_Index,Ala_Content,Gly_Content,
 61942,6,-0.23,8.6,7.6,Soluble
 66560,4.73,-0.07,6,8.3,Insoluble
 51523,6.32,-0.18,8.7,8.9,Soluble
-64268,7.72,0.15,7.6,8.8,Soluble
+64268,5,0.15,7.6,8.8,Soluble
 55151,6.46,-0.03,8.5,6,Soluble
 32403,9.47,-0.14,8.8,6.9,Soluble
 28141,6.13,-0.11,5.4,6.6,Insoluble
@@ -198,4 +198,4 @@ Molecular_Weight,Isoelectric_Point,Hydrophobicity_Index,Ala_Content,Gly_Content,
 37890,6.89,-0.01,5.7,8.4,Insoluble
 62309,7.1,0.11,5,6.8,Soluble
 32299,8.96,0.34,5.6,5.6,Insoluble
-53585,6.01,-0.24,7.4,8.4,Insoluble
+53585,6.01,-0.24,6,8.4,Insoluble
